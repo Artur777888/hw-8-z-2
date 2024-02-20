@@ -1,0 +1,23 @@
+.root{
+    --red-color: #ff0000 ;
+    --yello-color: #ffe278 ;
+    --blue-color: #4f32de ;
+    --gren-color:rgb(84, 253, 0)e ;
+    ---sky-color:rgb(20, 187, 187)e ;
+}
+
+.monday{
+    color: var(--red-color);
+}
+.Tuesday{
+    color: var(--blue-color);
+}
+.Wednesday{
+    color: var(--yello-color);
+}
+.Thursday{
+    color: var(---sky-color);
+}
+.Friday{
+    color: var(--gren-color);
+}
